@@ -1,1 +1,17 @@
-/* Start coding here */
+h1{
+   background-color: rgb(105, 160, 193);
+   padding: 10px;
+}
+.cafe-headline {
+    padding: 10px 10px;
+    border: 5px solid darkblue;
+    background-color: rgb(143, 202, 222);
+}
+.attraction {
+    padding: 10px 10px;
+    border: 5px solid darkblue;
+    background-color: rgb(143, 202, 222);
+}
+div {
+    margin: 10px;
+}
