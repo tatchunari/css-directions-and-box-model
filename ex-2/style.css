@@ -1,1 +1,29 @@
 /* Start coding here */
+p {
+  font-size: 72px;
+  margin-top: 30px;
+  justify-self: center;
+}
+
+.lightgrey-div {
+  height: 100vh;
+  border: 16px solid lightgray;
+}
+
+.black-div {
+  height: 100%;
+  border: 16px solid black;
+  box-sizing: border-box;
+}
+
+.crimson-div {
+  height: 100%;
+  border: 16px solid crimson;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: khaki;
+  margin: 0px;
+  padding: 0px;
+}
